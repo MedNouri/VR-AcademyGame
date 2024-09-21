@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3da53009fae683d48a8e53b9cca24819
+timeCreated: 1524579791
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: background
+    100004: isamm_
+    100006: list
+    100008: newGen
+    100010: pen
+    100012: polySurface597
+    100014: team
+    100016: tilte
+    100018: tools
+    100020: pasted__background
+    100022: pasted__isamm_
+    100024: pasted__list
+    100026: pasted__newGen
+    100028: pasted__pen
+    100030: pasted__polySurface597
+    100032: pasted__team
+    100034: pasted__tilte
+    100036: pasted__tools
+    400000: //RootNode
+    400002: background
+    400004: isamm_
+    400006: list
+    400008: newGen
+    400010: pen
+    400012: polySurface597
+    400014: team
+    400016: tilte
+    400018: tools
+    400020: pasted__background
+    400022: pasted__isamm_
+    400024: pasted__list
+    400026: pasted__newGen
+    400028: pasted__pen
+    400030: pasted__polySurface597
+    400032: pasted__team
+    400034: pasted__tilte
+    400036: pasted__tools
+    2100000: About
+    2100002: Menu_Main_Material
+    2100004: Menu_interactive_objects_T
+    2100006: pasted__About
+    2100008: pasted__Menu_Main_Material5
+    2100010: pasted__Menu_interactive_objects_T
+    2300000: background
+    2300002: isamm_
+    2300004: list
+    2300006: newGen
+    2300008: pen
+    2300010: polySurface597
+    2300012: team
+    2300014: tilte
+    2300016: tools
+    2300018: pasted__background
+    2300020: pasted__isamm_
+    2300022: pasted__list
+    2300024: pasted__newGen
+    2300026: pasted__pen
+    2300028: pasted__polySurface597
+    2300030: pasted__team
+    2300032: pasted__tilte
+    2300034: pasted__tools
+    3300000: background
+    3300002: isamm_
+    3300004: list
+    3300006: newGen
+    3300008: pen
+    3300010: polySurface597
+    3300012: team
+    3300014: tilte
+    3300016: tools
+    3300018: pasted__background
+    3300020: pasted__isamm_
+    3300022: pasted__list
+    3300024: pasted__newGen
+    3300026: pasted__pen
+    3300028: pasted__polySurface597
+    3300030: pasted__team
+    3300032: pasted__tilte
+    3300034: pasted__tools
+    4300000: isamm_
+    4300002: tools
+    4300004: list
+    4300006: newGen
+    4300008: team
+    4300010: background
+    4300012: polySurface597
+    4300014: tilte
+    4300016: pen
+    4300018: pasted__isamm_
+    4300020: pasted__tools
+    4300022: pasted__list
+    4300024: pasted__newGen
+    4300026: pasted__team
+    4300028: pasted__background
+    4300030: pasted__polySurface597
+    4300032: pasted__tilte
+    4300034: pasted__pen
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: About
+    second: {fileID: 2100000, guid: cfc3df1d3656694499c8b3e58f75ef6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Main_Material
+    second: {fileID: 2100000, guid: 212db3f6e3d537541a8fd2eea21f1546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_interactive_objects_T
+    second: {fileID: 2100000, guid: 99f630172306bcb41be1919dbb908d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__About
+    second: {fileID: 2100000, guid: cfc3df1d3656694499c8b3e58f75ef6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Menu_Main_Material5
+    second: {fileID: 2100000, guid: 212db3f6e3d537541a8fd2eea21f1546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Menu_interactive_objects_T
+    second: {fileID: 2100000, guid: 99f630172306bcb41be1919dbb908d4a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

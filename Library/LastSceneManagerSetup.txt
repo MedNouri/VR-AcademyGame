@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Level 1/M2/Level1_M2.unity
-  isLoaded: 1
-  isActive: 1

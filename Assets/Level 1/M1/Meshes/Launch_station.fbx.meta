@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: b3b251f8501a3c847a028667038bf72b
+timeCreated: 1523799200
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group12
+    100002: //RootNode
+    100004: pasted__polySurface1666
+    100006: pCube1
+    100008: pCube1 1
+    100010: polySurface1700
+    100012: polySurface1701
+    100014: polySurface1702
+    100016: polySurface1703
+    100018: Station
+    100020: transform383
+    100022: transform384
+    100024: transform385
+    100026: transform386
+    100028: transform387
+    100030: transform388
+    100032: transform389
+    100034: base
+    100036: Launch_station 1
+    100038: bse_rocket
+    100040: Roads
+    100042: Terrain
+    100044: electricity_lines
+    100046: Elevator_Frame
+    100048: Elvator_tower
+    100050: oil_lines
+    100052: pasted__polySurface1066
+    100054: pasted__polySurface1120
+    100056: pCube82
+    100058: pCube83
+    100060: pCube84
+    100062: pCube89
+    100064: polySurface2552
+    100066: polySurface2553
+    100068: polySurface2555
+    100070: polySurface2556
+    100072: polySurface2557
+    100074: polySurface2558
+    100076: polySurface2566
+    100078: polySurface2568
+    100080: polySurface2569
+    100082: Radio_tower
+    100084: Space_Bares
+    100086: tower1
+    100088: VR_search_center
+    400000: group12
+    400002: //RootNode
+    400004: pasted__polySurface1666
+    400006: pCube1
+    400008: pCube1 1
+    400010: polySurface1700
+    400012: polySurface1701
+    400014: polySurface1702
+    400016: polySurface1703
+    400018: Station
+    400020: transform383
+    400022: transform384
+    400024: transform385
+    400026: transform386
+    400028: transform387
+    400030: transform388
+    400032: transform389
+    400034: base
+    400036: Launch_station 1
+    400038: bse_rocket
+    400040: Roads
+    400042: Terrain
+    400044: electricity_lines
+    400046: Elevator_Frame
+    400048: Elvator_tower
+    400050: oil_lines
+    400052: pasted__polySurface1066
+    400054: pasted__polySurface1120
+    400056: pCube82
+    400058: pCube83
+    400060: pCube84
+    400062: pCube89
+    400064: polySurface2552
+    400066: polySurface2553
+    400068: polySurface2555
+    400070: polySurface2556
+    400072: polySurface2557
+    400074: polySurface2558
+    400076: polySurface2566
+    400078: polySurface2568
+    400080: polySurface2569
+    400082: Radio_tower
+    400084: Space_Bares
+    400086: tower1
+    400088: VR_search_center
+    2100000: M1_T
+    2100002: Level1_M1_Objects
+    2100004: Level1_M1_t
+    2100006: lambert1
+    2300000: Station
+    2300002: //RootNode
+    2300004: base
+    2300006: Launch_station 1
+    2300008: bse_rocket
+    2300010: Roads
+    2300012: Terrain
+    2300014: electricity_lines
+    2300016: Elevator_Frame
+    2300018: pasted__polySurface1066
+    2300020: pasted__polySurface1120
+    2300022: pCube82
+    2300024: pCube83
+    2300026: pCube84
+    2300028: pCube89
+    2300030: polySurface2552
+    2300032: polySurface2553
+    2300034: polySurface2555
+    2300036: polySurface2556
+    2300038: polySurface2557
+    2300040: polySurface2558
+    2300042: polySurface2566
+    2300044: polySurface2568
+    2300046: polySurface2569
+    2300048: Radio_tower
+    2300050: tower1
+    2300052: VR_search_center
+    3300000: Station
+    3300002: //RootNode
+    3300004: base
+    3300006: Launch_station 1
+    3300008: bse_rocket
+    3300010: Roads
+    3300012: Terrain
+    3300014: electricity_lines
+    3300016: Elevator_Frame
+    3300018: pasted__polySurface1066
+    3300020: pasted__polySurface1120
+    3300022: pCube82
+    3300024: pCube83
+    3300026: pCube84
+    3300028: pCube89
+    3300030: polySurface2552
+    3300032: polySurface2553
+    3300034: polySurface2555
+    3300036: polySurface2556
+    3300038: polySurface2557
+    3300040: polySurface2558
+    3300042: polySurface2566
+    3300044: polySurface2568
+    3300046: polySurface2569
+    3300048: Radio_tower
+    3300050: tower1
+    3300052: VR_search_center
+    4300000: Station
+    4300002: base
+    4300004: Launch_station
+    4300006: bse_rocket
+    4300008: Roads
+    4300010: Terrain
+    4300012: tower1
+    4300014: Elevator_Frame
+    4300016: pasted__polySurface1066
+    4300018: pasted__polySurface1120
+    4300020: polySurface2569
+    4300022: pCube89
+    4300024: polySurface2553
+    4300026: polySurface2552
+    4300028: polySurface2555
+    4300030: polySurface2556
+    4300032: polySurface2558
+    4300034: polySurface2557
+    4300036: polySurface2568
+    4300038: polySurface2566
+    4300040: pCube84
+    4300042: pCube83
+    4300044: pCube82
+    4300046: electricity_lines
+    4300048: VR_search_center
+    4300050: Radio_tower
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_Objects
+    second: {fileID: 2100000, guid: e9a5943691759b0429b8424c82a713a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_t
+    second: {fileID: 2100000, guid: 0a50d28034b7ff84abe23c050c9a0ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1_T
+    second: {fileID: 2100000, guid: e9a5943691759b0429b8424c82a713a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

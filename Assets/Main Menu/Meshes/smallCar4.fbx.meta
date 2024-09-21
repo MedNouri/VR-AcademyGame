@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a0dde09fe39bd5e4da7ff467ac6d3a4e
+timeCreated: 1524272810
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface578
+    100004: polySurface579
+    100006: polySurface580
+    100008: polySurface581
+    100010: polySurface582
+    100012: polySurface583
+    100014: polySurface584
+    100016: polySurface585
+    100018: polySurface586
+    100020: polySurface587
+    100022: polySurface588
+    100024: polySurface589
+    100026: polySurface590
+    100028: polySurface590 1
+    100030: transform177
+    100032: transform178
+    100034: transform179
+    100036: transform180
+    100038: transform181
+    100040: transform182
+    100042: transform183
+    100044: transform184
+    100046: transform185
+    100048: transform186
+    100050: transform187
+    100052: transform188
+    100054: transform189
+    100056: transform190
+    100058: vrAcademyCar
+    400000: //RootNode
+    400002: polySurface578
+    400004: polySurface579
+    400006: polySurface580
+    400008: polySurface581
+    400010: polySurface582
+    400012: polySurface583
+    400014: polySurface584
+    400016: polySurface585
+    400018: polySurface586
+    400020: polySurface587
+    400022: polySurface588
+    400024: polySurface589
+    400026: polySurface590
+    400028: polySurface590 1
+    400030: transform177
+    400032: transform178
+    400034: transform179
+    400036: transform180
+    400038: transform181
+    400040: transform182
+    400042: transform183
+    400044: transform184
+    400046: transform185
+    400048: transform186
+    400050: transform187
+    400052: transform188
+    400054: transform189
+    400056: transform190
+    400058: vrAcademyCar
+    2100000: Menu_interactive_objects_T
+    2100002: Menu_Main_Material
+    2100004: pasted__Menu_Main_Material1
+    2300000: //RootNode
+    2300002: polySurface590
+    3300000: //RootNode
+    3300002: polySurface590
+    4300000: vrAcademyCar
+    4300002: polySurface590
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Main_Material
+    second: {fileID: 2100000, guid: 212db3f6e3d537541a8fd2eea21f1546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_interactive_objects_T
+    second: {fileID: 2100000, guid: 99f630172306bcb41be1919dbb908d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Menu_Main_Material1
+    second: {fileID: 2100000, guid: 212db3f6e3d537541a8fd2eea21f1546, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

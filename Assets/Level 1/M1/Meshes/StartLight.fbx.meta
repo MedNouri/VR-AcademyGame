@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: cbb00a4aeed4c1341a8506aa09b76265
+timeCreated: 1525115948
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pasted__Circle001
+    100002: pasted__Circle002
+    100004: pasted__Circle003
+    100006: pasted__Cylinder002
+    100008: pasted__Cylinder004
+    100010: pasted__Cylinder005
+    100012: pasted__Rectangle001
+    100014: pasted__Rectangle004
+    100016: pasted__Rectangle005
+    100018: pCube89
+    100020: //RootNode
+    400000: pasted__Circle001
+    400002: pasted__Circle002
+    400004: pasted__Circle003
+    400006: pasted__Cylinder002
+    400008: pasted__Cylinder004
+    400010: pasted__Cylinder005
+    400012: pasted__Rectangle001
+    400014: pasted__Rectangle004
+    400016: pasted__Rectangle005
+    400018: pCube89
+    400020: //RootNode
+    2100000: Level1_M1_Objects
+    2300000: pasted__Circle001
+    2300002: pasted__Circle002
+    2300004: pasted__Circle003
+    2300006: pasted__Cylinder002
+    2300008: pasted__Cylinder004
+    2300010: pasted__Cylinder005
+    2300012: pasted__Rectangle001
+    2300014: pasted__Rectangle004
+    2300016: pasted__Rectangle005
+    2300018: pCube89
+    3300000: pasted__Circle001
+    3300002: pasted__Circle002
+    3300004: pasted__Circle003
+    3300006: pasted__Cylinder002
+    3300008: pasted__Cylinder004
+    3300010: pasted__Cylinder005
+    3300012: pasted__Rectangle001
+    3300014: pasted__Rectangle004
+    3300016: pasted__Rectangle005
+    3300018: pCube89
+    4300000: pCube89
+    4300002: pasted__Circle001
+    4300004: pasted__Circle002
+    4300006: pasted__Rectangle001
+    4300008: pasted__Cylinder005
+    4300010: pasted__Rectangle005
+    4300012: pasted__Cylinder002
+    4300014: pasted__Circle003
+    4300016: pasted__Cylinder004
+    4300018: pasted__Rectangle004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_Objects
+    second: {fileID: 2100000, guid: a096ec5597e698f4f9e9a3c73cfd5d75, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

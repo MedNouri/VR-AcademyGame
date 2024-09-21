@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SteamVR\InteractionSystem\Core\Scripts\ItemPackageSpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AlienAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoginManger.cs" Line="118" Column="18" />
+      <File FileName="Assets\Scripts\keyFeedback.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\OxygenOne.cs" Line="84" Column="49" />
+      <File FileName="Assets\SteamVR\InteractionSystem\Core\Scripts\ItemPackageSpawner.cs" Line="339" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

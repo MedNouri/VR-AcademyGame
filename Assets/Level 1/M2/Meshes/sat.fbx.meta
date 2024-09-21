@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: a18561c81710740409a58979b125318a
+timeCreated: 1525181326
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group10
+    100002: group9
+    100004: pasted__Mars_One___antenna
+    100006: polySurface432
+    100008: polySurface433
+    100010: polySurface435
+    100012: polySurface436
+    100014: polySurface437
+    100016: polySurface441
+    100018: polySurface442
+    100020: polySurface444
+    100022: polySurface445
+    100024: polySurface446
+    100026: polySurface447
+    100028: polySurface448
+    100030: polySurface449
+    100032: polySurface450
+    100034: polySurface451
+    100036: polySurface451 1
+    100038: polySurface452
+    100040: polySurface453
+    100042: polySurface454
+    100044: polySurface455
+    100046: polySurface456
+    100048: polySurface457
+    100050: polySurface458
+    100052: polySurface459
+    100054: polySurface461
+    100056: polySurface462
+    100058: polySurface463
+    100060: polySurface465
+    100062: polySurface466
+    100064: polySurface467
+    100066: polySurface468
+    100068: polySurface469
+    100070: polySurface470
+    100072: polySurface471
+    100074: polySurface472
+    100076: polySurface473
+    100078: polySurface474
+    100080: //RootNode
+    100082: sat
+    100084: transform260
+    100086: transform261
+    100088: transform262
+    100090: transform263
+    100092: transform264
+    100094: transform265
+    100096: transform266
+    100098: transform267
+    100100: transform268
+    100102: transform269
+    100104: transform270
+    100106: transform271
+    100108: transform272
+    100110: transform273
+    100112: transform274
+    100114: transform275
+    100116: transform276
+    100118: transform277
+    100120: transform278
+    100122: transform386
+    100124: transform387
+    100126: transform388
+    100128: transform389
+    100130: transform390
+    100132: transform391
+    100134: transform392
+    100136: transform393
+    100138: transform394
+    100140: transform395
+    100142: transform396
+    100144: transform397
+    100146: transform398
+    100148: transform399
+    100150: transform400
+    100152: transform401
+    100154: transform402
+    100156: transform403
+    100158: transform404
+    400000: group10
+    400002: group9
+    400004: pasted__Mars_One___antenna
+    400006: polySurface432
+    400008: polySurface433
+    400010: polySurface435
+    400012: polySurface436
+    400014: polySurface437
+    400016: polySurface441
+    400018: polySurface442
+    400020: polySurface444
+    400022: polySurface445
+    400024: polySurface446
+    400026: polySurface447
+    400028: polySurface448
+    400030: polySurface449
+    400032: polySurface450
+    400034: polySurface451
+    400036: polySurface451 1
+    400038: polySurface452
+    400040: polySurface453
+    400042: polySurface454
+    400044: polySurface455
+    400046: polySurface456
+    400048: polySurface457
+    400050: polySurface458
+    400052: polySurface459
+    400054: polySurface461
+    400056: polySurface462
+    400058: polySurface463
+    400060: polySurface465
+    400062: polySurface466
+    400064: polySurface467
+    400066: polySurface468
+    400068: polySurface469
+    400070: polySurface470
+    400072: polySurface471
+    400074: polySurface472
+    400076: polySurface473
+    400078: polySurface474
+    400080: sat
+    400082: //RootNode
+    400084: transform260
+    400086: transform261
+    400088: transform262
+    400090: transform263
+    400092: transform264
+    400094: transform265
+    400096: transform266
+    400098: transform267
+    400100: transform268
+    400102: transform269
+    400104: transform270
+    400106: transform271
+    400108: transform272
+    400110: transform273
+    400112: transform274
+    400114: transform275
+    400116: transform276
+    400118: transform277
+    400120: transform278
+    400122: transform386
+    400124: transform387
+    400126: transform388
+    400128: transform389
+    400130: transform390
+    400132: transform391
+    400134: transform392
+    400136: transform393
+    400138: transform394
+    400140: transform395
+    400142: transform396
+    400144: transform397
+    400146: transform398
+    400148: transform399
+    400150: transform400
+    400152: transform401
+    400154: transform402
+    400156: transform403
+    400158: transform404
+    2100000: lambert1
+    2100002: lEVEL1_M2_t
+    2300000: sat
+    3300000: sat
+    4300000: sat
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lEVEL1_M2_t
+    second: {fileID: 2100000, guid: f507eec75c68d5541bf8de8ceb233273, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bd8ff0a03ea00d846aeb29dc1b89f614
+timeCreated: 1524426404
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cap_1_6
+    100002: Cap_1_7
+    100004: Cap_2_6
+    100006: Cap_2_7
+    100008: extrudedSurface1
+    100010: extrudedSurface2
+    100012: extrudedSurface9
+    100014: pCylinder62
+    100016: pCylinder63
+    100018: pCylinder64
+    100020: pCylinder65
+    100022: pCylinder66
+    100024: pCylinder67
+    100026: pCylinder68
+    100028: //RootNode
+    100030: Post_4
+    100032: Power_Line
+    100034: transform536
+    100036: transform537
+    100038: transform538
+    100040: transform539
+    100042: transform540
+    100044: transform541
+    100046: transform542
+    100048: transform543
+    100050: transform544
+    100052: transform545
+    100054: transform546
+    100056: transform549
+    100058: transform550
+    100060: transform551
+    100062: transform552
+    100064: transform553
+    100066: Transformer
+    100068: Wire_Connectors
+    100070: Wire_Connectors_2
+    100072: Wire_Connectors_4
+    100074: extrudedSurface11
+    100076: extrudedSurface12
+    100078: extrudedSurface13
+    100080: polySurface2551
+    400000: Cap_1_6
+    400002: Cap_1_7
+    400004: Cap_2_6
+    400006: Cap_2_7
+    400008: extrudedSurface1
+    400010: extrudedSurface2
+    400012: extrudedSurface9
+    400014: pCylinder62
+    400016: pCylinder63
+    400018: pCylinder64
+    400020: pCylinder65
+    400022: pCylinder66
+    400024: pCylinder67
+    400026: pCylinder68
+    400028: //RootNode
+    400030: Post_4
+    400032: Power_Line
+    400034: transform536
+    400036: transform537
+    400038: transform538
+    400040: transform539
+    400042: transform540
+    400044: transform541
+    400046: transform542
+    400048: transform543
+    400050: transform544
+    400052: transform545
+    400054: transform546
+    400056: transform549
+    400058: transform550
+    400060: transform551
+    400062: transform552
+    400064: transform553
+    400066: Transformer
+    400068: Wire_Connectors
+    400070: Wire_Connectors_2
+    400072: Wire_Connectors_4
+    400074: extrudedSurface11
+    400076: extrudedSurface12
+    400078: extrudedSurface13
+    400080: polySurface2551
+    2100000: Level1_M1_Objects
+    2100002: Level1_M1_t
+    2300000: extrudedSurface9
+    2300002: extrudedSurface13
+    3300000: extrudedSurface9
+    3300002: extrudedSurface13
+    4300000: extrudedSurface9
+    4300002: extrudedSurface13
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_Objects
+    second: {fileID: 2100000, guid: a096ec5597e698f4f9e9a3c73cfd5d75, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

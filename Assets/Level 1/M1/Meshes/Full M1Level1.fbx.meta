@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 80c63e20952f91c4abfd05e9ef6ef34f
+timeCreated: 1526141018
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: //RootNode
+    100004: Launch_station
+    100006: Launch_station1
+    100008: Launch_station2
+    100010: polySurface2700
+    100012: polySurface2701
+    100014: SpaceShip_001
+    100016: tower1
+    100018: New_final_M2
+    100020: sculpt1StretchOrigin
+    100022: sculptor1
+    400000: base
+    400002: //RootNode
+    400004: Launch_station
+    400006: Launch_station1
+    400008: Launch_station2
+    400010: polySurface2700
+    400012: polySurface2701
+    400014: SpaceShip_001
+    400016: tower1
+    400018: New_final_M2
+    400020: sculpt1StretchOrigin
+    400022: sculptor1
+    2100000: M1_T2
+    2100002: Level1_M1_Objects1
+    2100004: Level1_M1_t2
+    2100006: Spaceship1
+    2300000: base
+    2300002: Launch_station
+    2300004: Launch_station1
+    2300006: Launch_station2
+    2300008: polySurface2700
+    2300010: polySurface2701
+    2300012: SpaceShip_001
+    2300014: tower1
+    3300000: base
+    3300002: Launch_station
+    3300004: Launch_station1
+    3300006: Launch_station2
+    3300008: polySurface2700
+    3300010: polySurface2701
+    3300012: SpaceShip_001
+    3300014: tower1
+    4300000: Launch_station
+    4300002: base
+    4300004: Launch_station2
+    4300006: Launch_station1
+    4300008: polySurface2701
+    4300010: polySurface2700
+    4300012: tower1
+    4300014: SpaceShip_001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_Objects1
+    second: {fileID: 2100000, guid: a096ec5597e698f4f9e9a3c73cfd5d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level1_M1_t2
+    second: {fileID: 2100000, guid: 0a50d28034b7ff84abe23c050c9a0ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1_T2
+    second: {fileID: 2100000, guid: e9a5943691759b0429b8424c82a713a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spaceship1
+    second: {fileID: 2100000, guid: 2ad75c3a89cb99248844a3d9d3919d23, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
